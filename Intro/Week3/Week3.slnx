@@ -11,4 +11,5 @@
   <Project Path="Task6/Task6.vcxproj" />
   <Project Path="Task7/Task7.vcxproj" />
   <Project Path="Task8/Task8.vcxproj" />
+  <Project Path="Task9/Task9.vcxproj" />
 </Solution>
