@@ -9,4 +9,5 @@
   <Project Path="Task4/Task4.vcxproj" />
   <Project Path="Task5/Task5.vcxproj" />
   <Project Path="Task6/Task6.vcxproj" />
+  <Project Path="Task7/Task7.vcxproj" />
 </Solution>
