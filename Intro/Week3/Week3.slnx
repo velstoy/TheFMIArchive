@@ -14,4 +14,5 @@
   <Project Path="Task7/Task7.vcxproj" />
   <Project Path="Task8/Task8.vcxproj" />
   <Project Path="Task9/Task9.vcxproj" />
+  <Project Path="Week12/Week12.vcxproj" />
 </Solution>
