@@ -1,0 +1,28 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Task1/Task1.vcxproj" Id="3557f285-2f04-4414-b2c0-4e91cf86291b" />
+  <Project Path="Task10/Task10.vcxproj" Id="3881ec53-a7af-4d66-ada4-050cdfc4b3e2" />
+  <Project Path="Task11/Task11.vcxproj" Id="35a319e7-845d-4d71-8aac-3e4da369c719" />
+  <Project Path="Task12/Task12.vcxproj" Id="f5cb2c17-3344-49be-9a04-9646db1ec828" />
+  <Project Path="Task13/Task13.vcxproj" Id="fd0453a0-c123-4106-8389-5692b6f33991" />
+  <Project Path="Task14/Task14.vcxproj" Id="e24e9856-9cb5-45ad-b731-60e75124d780" />
+  <Project Path="Task15/Task15.vcxproj" Id="7f3a2feb-247c-4f06-b44f-88682599eb13" />
+  <Project Path="Task16/Task16.vcxproj" Id="bcbe0936-8725-407c-9adb-46d7cedcbfe0" />
+  <Project Path="Task17/Task17.vcxproj" Id="fb730492-3148-4357-b42e-dc385b64c156" />
+  <Project Path="Task18/Task18.vcxproj" Id="9cf433d7-561a-4bb5-87d9-b6cc3846e0f7" />
+  <Project Path="Task19/Task19.vcxproj" Id="0b9ce590-affc-4458-97a1-70cea5496f38" />
+  <Project Path="Task2/Task2.vcxproj" Id="58101c04-5f02-4bd3-8453-7fdff52b48d9" />
+  <Project Path="Task20/Task20.vcxproj" Id="722a6adc-d174-4364-b082-68f6c80b2f16" />
+  <Project Path="Task21/Task21.vcxproj" Id="1ed54a1f-5ad8-42f7-834d-8a7948c04f60" />
+  <Project Path="Task22/Task22.vcxproj" Id="a691c785-3565-4338-b621-2e59212629cf" />
+  <Project Path="Task3/Task3.vcxproj" Id="e5472fdd-5d72-49e1-ae84-9e1110665ac7" />
+  <Project Path="Task4/Task4.vcxproj" Id="7231fd29-8284-4725-a940-ee86068b9ff3" />
+  <Project Path="Task5/Task5.vcxproj" Id="e6ca1b77-6a0c-441b-910d-74f79f02d310" />
+  <Project Path="Task6/Task6.vcxproj" Id="b505ea49-d3d5-49fa-8704-bde395a4a2c6" />
+  <Project Path="Task7/Task7.vcxproj" Id="2c9324d6-037b-4023-b6c7-0e10173e3cee" />
+  <Project Path="Task8/Task8.vcxproj" Id="8b80fc3a-80c8-4ee6-8b71-33d3410f5ed5" />
+  <Project Path="Task9/Task9.vcxproj" Id="d238ea60-d5ab-481a-9eff-8d67dd8cf973" />
+</Solution>
